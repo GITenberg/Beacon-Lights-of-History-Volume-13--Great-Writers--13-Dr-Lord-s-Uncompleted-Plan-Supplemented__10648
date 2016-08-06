@@ -1,0 +1,26 @@
+_repo: Beacon-Lights-of-History-Volume-13--Great-Writers--13-Dr-Lord-s-Uncompleted-Plan-Supplemented__10648
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lord, John
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '653'
+    url: http://www.gutenberg.org/2009/agents/653
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History'
+- GITenberg
+title: "Beacon Lights of History, Volume 13: Great Writers\r\nDr Lord's Uncompleted\
+  \ Plan, Supplemented with Essays by Emerson, Macaulay, Hedge, and Mercer Adam"
+url: http://www.gutenberg.org/ebooks/10648
